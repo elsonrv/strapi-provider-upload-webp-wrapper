@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-webp-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Strapi wrapper to convert image files to webp for any upload provider.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,9 @@
     "url": "https://github.com/elsonrv/strapi-provider-upload-webp-wrapper/issues"
   },
   "release": {
-    "branches": ["main"]
+    "branches": [
+      "main"
+    ]
   },
   "publishConfig": {
     "access": "public"
